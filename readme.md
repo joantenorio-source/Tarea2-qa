@@ -1,3 +1,8 @@
+## Nombre
+Sebastian Tenorio
+Ing Informatica
+Aseguramiento de la calidad del software
+
 ## Contexto de la aplicación
 Uisek Inclusiva Web es un sistema web accesible y responsivo desarrollado para instituciones educativas y organizaciones sociales que promueven la inclusión. La plataforma permite gestionar, difundir y dar seguimiento a actividades inclusivas dirigidas a personas con discapacidad, estudiantes con necesidades educativas especiales y grupos sociales vulnerables. Centraliza la información mediante un panel administrativo con geolocalización, generación de reportes, gráficos estadísticos y validación de formularios, garantizando accesibilidad web y participación equitativa.
 
